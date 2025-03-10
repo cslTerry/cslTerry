@@ -1,4 +1,7 @@
 ## Hi there 👋
+## 🌱 I’m currently learning to use GitHub
+## Interested in Data Science and Artificial Intelligence
+## Simple-minded elderly user 😊
 
 <!--
 **cslTerry/cslTerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
